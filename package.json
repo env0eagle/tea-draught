@@ -1,0 +1,27 @@
+{
+  "name": "tea-draught",
+  "version": "0.0.2",
+  "description": "Tea draught",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/env0eagle/tea-draught.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "Env0Eagle",
+  "license": "ISC",
+  "dependencies": {
+    "tea-demo-arsen": "1.0.1",
+    "tea-charmix": "0.0.1",
+    "tea-brewer": "0.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/env0eagle/tea-draught/issues"
+  },
+  "homepage": "https://github.com/env0eagle/tea-draught#readme"
+}
